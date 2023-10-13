@@ -1,0 +1,1 @@
+window.SuperUX={...window.SuperUX,globalConfig:{uxServerURL:"http://222.122.67.196:3000",dxWebsocketURL:"ws://localhost:8080"}};
